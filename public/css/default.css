@@ -1,0 +1,3 @@
+#hero-search-box h2 { color: #FFFFFF; font-size:30px; font-weight: bold;}
+#hero-search-box .row {  margin-top:10px; }
+#hero-search-box .row:first-child {  margin-top:0px; }
